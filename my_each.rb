@@ -4,4 +4,5 @@ def my_each(my_array)
     
     i += 1 
   end
+  my_array
 end
